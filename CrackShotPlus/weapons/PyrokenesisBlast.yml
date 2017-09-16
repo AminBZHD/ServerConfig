@@ -1,4 +1,4 @@
-pyrokenesisblast:
+PyrokenesisBlast:
     Shoot:
         Trails:
             Trail: "greenlaser"
